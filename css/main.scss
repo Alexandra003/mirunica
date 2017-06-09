@@ -1,0 +1,9 @@
+.colorH #3f9fd1
+
+h1
+  color $colorH;
+  font-size: 24px;
+  line-height: 28px;
+
+p
+  @extend .colorH

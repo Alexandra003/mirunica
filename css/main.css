@@ -1,0 +1,136 @@
+body {
+  margin:0px;
+  padding:0px;
+  background-color: #f7f7f7;
+  }
+
+  p {
+	  color:#525252;
+  }
+.wrapper {
+    margin:0px auto;
+    width: 1040px;
+    position: relative;
+  }
+h1 {
+	color:#3f9dd0;
+	font-size:28px;
+	line-height:32px;
+	padding:30px 0px 0px 30px;
+	margin:0px;
+}
+h2 {
+	color:#000;
+	font-size:24px;
+	line-height:28px;
+	padding-left:30px;
+	padding-bottom:30px;
+	margin:0px;
+}
+h3 {
+	margin:0px;
+	color:#525252;
+	font-weight:bold;
+}
+  .responsiveBanner img {
+    width: 100%;
+    height: auto;
+  }
+
+#upDiv {
+	background-color:white;
+	padding:50px 185px;
+}
+#description {
+	width:50%;
+	 display: inline-block;
+}
+#helpDiv {
+	width:380px;
+	height:490px;
+	background-color:#3f9dd0;
+	position:absolute;
+    display: inline-block;
+	top: 22%;
+    left: 58%;
+	color:#fff !important;
+	text-align:center;
+	font-size:24px;
+	line-height:28px;
+	margin:0px;
+	
+}
+#helpDiv p{color:#fff;margin-top:30px;margin-bottom:0px;}
+#centerText {
+	display:block;
+	font-size:42px;
+	line-height:48px;
+	font-weight:bold;
+}
+
+input.name {
+    display: block;
+    margin: 20px 0px 15px 40px;
+	background-color: #4ea6cc;
+    border: none;
+    padding:0px 0px 0px 50px;
+    color: #fff;
+	height: 45px;
+    width: 250px;
+}
+input.sameBckg {
+	background-image:url(../images/man_name.jpg);
+	background-repeat:no-repeat;
+	background-position: 25px;
+}
+#email {
+	background-image:url(../images/mail.jpg);
+	background-repeat:no-repeat;
+	background-position: 25px;
+}
+#comment {
+	background-image:url(../images/search.jpg);
+	background-repeat:no-repeat;
+	background-position: 25px;
+}
+#submitButton {
+	width:265px;
+	height:50px;
+	background-color:#f7941d;
+	border:none;
+	color:#fff;
+	text-transform:uppercase;
+	font-size:22px;
+	font-weight:bold;
+	background-image:url(../images/background_button.jpg);
+	background-repeat:no-repeat;
+	background-position: 90% center;
+	padding: 0px 50px 0px 10px;
+}
+.testimonial {
+	
+	justify-content:center;
+	margin-bottom: 36px;
+}
+.imageTest {
+	
+	float:left; margin:0px 0px 15px 15px; padding-right:30px;
+}
+
+#paraFooter {
+	color:#fff;
+	background-color:#f7941d;
+	font-size:28px;
+	line-height:32px;
+	padding:15px 20px;
+	margin: 0px 0px 50px 30px;
+	
+}
+
+#triangle {
+	width: 0%;
+    border-top: 30px solid #3f9dd0;
+    border-right: 180px solid transparent;
+    border-left: 200px solid transparent;
+    margin-top: 31px;
+}
