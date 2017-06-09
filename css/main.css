@@ -10,7 +10,7 @@ body {
 .wrapper {
     margin:0px auto;
     width: 1040px;
-    position: relative;
+    position: absolute;
   }
 h1 {
 	color:#3f9dd0;
